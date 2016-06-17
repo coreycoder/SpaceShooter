@@ -1,4 +1,4 @@
-__author__ = 'azian'
+__author__ = 'Corey'
 
 import pygame
 import time
